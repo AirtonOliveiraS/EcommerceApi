@@ -96,7 +96,7 @@ $ npm run dev
 
 ### Consutas Realizadas via Insomnia:
 
-![image](https://github.com/AirtonOliveiraS/EcommerceApi/blob/main/public/consultas_insomnia)
+![image](https://github.com/AirtonOliveiraS/EcommerceApi/blob/main/public/consultas_insomnia.png)
 
 ---
 
