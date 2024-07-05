@@ -3,7 +3,7 @@ Projeto desenvolvido durante a  Formação em Tecnologia da Escola DNC.
 
 ### MODELAGEM
 
-![image](public/logic_model.png)
+![image](https://github.com/AirtonOliveiraS/EcommerceApi/blob/main/public/logic_model.png)
 
 ---
 
@@ -96,7 +96,7 @@ $ npm run dev
 
 ### Consutas Realizadas via Insomnia:
 
-![image](public/consultas_insomnia.png)
+![image](https://github.com/AirtonOliveiraS/EcommerceApi/blob/main/public/consultas_insomnia)
 
 ---
 
