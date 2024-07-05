@@ -100,8 +100,12 @@ $ npm run dev
 
 ---
 
+### DataBase MySql:
 
 
+![image](https://github.com/AirtonOliveiraS/EcommerceApi/blob/main/public/database.png)
+
+---
 
 
 
